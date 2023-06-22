@@ -14,10 +14,10 @@ This will put the CMD window in that folder to view those files within it.
 3) In order to compile the code, type in 'javac' and then the name 
 of the file with '.java' at the end of the file. This will create a .class 
 file of the program in the directory specified. You can now run it directly
-through this file.
+through this file. For this file, the whole bite with the main is 'javac App.java'
 4) To finally run the file thru the CMD window type in 'java ', with the
 whitespace, and then the file name without the '.java' suffix and if there
-are no errors it will run successfully. 
+are no errors it will run successfully. For this file it will be 'java App'
 
 Easy steps below
 1)Window button, type 'cmd'
